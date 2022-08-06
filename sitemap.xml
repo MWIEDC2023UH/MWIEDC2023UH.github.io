@@ -11,7 +11,12 @@
        <loc>WEBSITE/program</loc>
    </url>
    <url>
+       <loc>WEBSITE/keynote</loc>
+   </url>
+   <url>
        <loc>WEBSITE/directions</loc>
    </url>
-</urlset> 
-
+   <url>
+       <loc>WEBSITE/flyer</loc>
+   </url>
+</urlset>
